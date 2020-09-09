@@ -27,6 +27,9 @@ hr {
             height: 4px; 
             background: black; 
         }
+img {
+  text-align: center;
+}
 
 header, footer {
   background: lightgrey;
